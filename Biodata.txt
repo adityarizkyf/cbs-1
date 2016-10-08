@@ -2,4 +2,9 @@ Nama	: Teguh Riandi Pratama
 NPM	: 140810160025
 TTL	: Bandung 24 November 1998
 JK	: Laki-laki
-Hobby	: Futsal
+
+
+
+Nama	: Aditya Rizky Fadhillah
+NPM	: 140810160042
+
